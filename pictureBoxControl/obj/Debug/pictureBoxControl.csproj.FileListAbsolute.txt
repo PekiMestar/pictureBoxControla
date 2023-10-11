@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\pictureBoxControl\bin\Debug\pictureBoxControl.exe.config
+C:\Users\ucenik\source\repos\pictureBoxControl\bin\Debug\pictureBoxControl.exe
+C:\Users\ucenik\source\repos\pictureBoxControl\bin\Debug\pictureBoxControl.pdb
+C:\Users\ucenik\source\repos\pictureBoxControl\obj\Debug\pictureBoxControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\pictureBoxControl\obj\Debug\pictureBoxControl.Form1.resources
+C:\Users\ucenik\source\repos\pictureBoxControl\obj\Debug\pictureBoxControl.Properties.Resources.resources
+C:\Users\ucenik\source\repos\pictureBoxControl\obj\Debug\pictureBoxControl.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\pictureBoxControl\obj\Debug\pictureBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\pictureBoxControl\obj\Debug\pictureBoxControl.exe
+C:\Users\ucenik\source\repos\pictureBoxControl\obj\Debug\pictureBoxControl.pdb
